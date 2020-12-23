@@ -1,0 +1,25 @@
+{
+  "name": "node.js-rabbitmq-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "consumer": "node consumer.js",
+    "producer": "node producer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhmtszr/Node.js-RabbitMQ-Helper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhmtszr/Node.js-RabbitMQ-Helper/issues"
+  },
+  "homepage": "https://github.com/mhmtszr/Node.js-RabbitMQ-Helper#readme",
+  "dependencies": {
+    "amqplib": "^0.6.0"
+  }
+}
