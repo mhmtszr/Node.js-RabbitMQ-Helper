@@ -1,6 +1,6 @@
 # Node.js-RabbitMQ-Helper
 
-Example send email usage of RabbitMQ on Node.js.
+Example sending emails usage of RabbitMQ on Node.js.
 
 ### Install RabbitMQ from Docker
 
